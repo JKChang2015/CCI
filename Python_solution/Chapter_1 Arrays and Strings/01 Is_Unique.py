@@ -1,5 +1,4 @@
-# 01 Is_Uni
-# que
+# 01 Is_Unique
 # Created by JKChang
 # 20/02/2018, 11:25
 # Tag:
