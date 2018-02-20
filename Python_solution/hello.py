@@ -4,4 +4,3 @@
 # Tag:
 # Description: 
 
-print('I wanna say hi')
