@@ -8,6 +8,7 @@
 # O(N)
 import unittest
 
+
 def unique(string):
     if len(string) > 128:
         return False
@@ -24,7 +25,7 @@ def unique(string):
 
 class Test(unittest.TestCase):
     dataT = [('abcd'), ('s4fad'), ('')]
-    dataF = [('23ds2'), ('hb 627jh=j ()'),('  ')]
+    dataF = [('23ds2'), ('hb 627jh=j ()'), ('  ')]
 
     def test_unique(self):
         # True
