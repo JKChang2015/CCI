@@ -1,2 +1,3 @@
-# CtCI
-Cracking the Coding Interview
+# Cracking the Coding Interview
+---
+![Alt text](/resources/ctci.png)
